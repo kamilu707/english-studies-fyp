@@ -1,0 +1,44 @@
+The computer sciences and language shift to English: 
+case study of non English native  computer science leaners and professionals.
+
+
+The introduction:
+Scribbr style:
+	- How much is already known ? 
+	- For whom is this intersting ? 
+	- What are the key research questions ? 
+
+
+Q1: Why did you choose that topic ? 
+	I've chosen this topic because I'm intersted about sociolnguistics and computer sicence in addition my curiosityto investigate if computer programming and freelance as modern business model will shoift non english native speaks to learn and adop english as theire language of choice.
+	I want to know if English is going to be language of choice of the future generations.
+
+Q2: What do you aim for in this topic ? 
+	In this topic I'm welling to know how english became the language of technology and what makes it a standard in web technologies. As well as if English learning is a must for non native people or is there other langufe choices.
+	- will english can be the language of the new generation ? 
+
+Q3: What do you expect from that topic ? 
+	I'm expecting to find answers about is English the only choice for programmers to learn and to work as programmers ? In addition finding answers and results about.
+	* is it possible for the the web technologies to shift socity language to english in the future. 
+	- is learning and working in a field of computer science will change cause a shift in language for non english native speaker ? 
+	- Answers about if the modern technology dependent jobs will shift the language of genrations language to English.
+	- Because of lack of job oppurtunity in most the countries in the world a lot of people switched theire interest of earning money and working toward the internet and the vitual world like remote work and freelance services which means they will exposed to more english.
+
+
+
+- References:
+- Language spread, shift and maintenance: how groups choose their language 
+
+- Language Shift : http://ds-wordpress.haverford.edu/ticha-resources/modules/chapter/language-shift/
+
+- Language Shift and Death : https://sites.google.com/site/hongkonglinguistics/Downhome/Topic5/staycation
+
+- Language Shift and the Speech Community: Sociolinguistic Change in a Garifuna Community in Belize : https://repository.upenn.edu/edissertations/33/#:~:text=Language%20shift%20is%20the%20process,in%20favor%20of%20the%20other.
+
+- What is the Future of the English Language? : https://termcoord.eu/2020/04/future-english-language/
+
+- Learning the Value of English as a Computer Science Major : https://www.readinghorizons.com/blog/learning-the-value-of-english/#:~:text=Computer%20science%20majors%20understand%20that,reading%20and%20writing%20in%20English.
+
+- What is Computer Science? : https://undergrad.cs.umd.edu/what-computer-science
+
+- Why computer science students need language ? : Theresa Beaubouef : https://zh.booksc.eu/book/44917944/c0dbd2

@@ -1,0 +1,106 @@
+# This the English studies final year project. This is notes that I will use to create my final year project.
+	
+Older Project Idea:
+- How Languistics can help the artificial intelegence to make interaction with the machine more better.
+- How Effective Online learning or self learning can imporove Students Language Learning.
+	
+
+# Now I've choosed to do my research in the field of Sociolinguistics.	
+Topic Idea 1:
+	- The role of new web technologies in shifing to English. 
+		(case study: Programmers and freelancers as a society group).
+
+Final Title: - The role of computer science in shifting students language to English.
+
+
+
+Working Plan:
+- finish theeoritical part in Ramadam
+- Place of imperical part (Collection of data):
+	+ Collect data from Ileic privat IT school students. (Online survey)
+	+ Collect data from programmers in Agadir no institution required.
+	+ Collect data from online only by asking question in forums (Reddit, freecodecamp .etc)
+
+
+
+------------------------------------
+Tasks To do:
+------------------------------------
+- edit all section and chapters titles to to start wit noindetntation.
+- Extend to Part one Concultion.
+- 
+
+-------------------
+Table of content :
+-------------------
+Part 1: Theoritical part
+__________________________
+	Introduction
+	Chapter 1:
+		- Chapter 1: Language Shift and Change
+			- Section 1: Language shift
+			- Section 2: Factors that influence language change and shift
+			- Section 3: Language change in today's world
+			-
+		- Chapter II: Computer science and information Technology
+			- Section 1: Computer science and information technology
+			- Section 2: The need for English in Computer science
+		- Chapter III: Computer science and the global English
+			- Section 1: Natural languages in Computer science
+			- Section 2: English as a dominant language in the field of Information Technology
+
+			- Section 3: The influence of Computer science on Learning English
+
+
+Part 2: Emperical part:
+___________________________
+	Collect data from Ileic students.
+	Ask question in the street and the internet.
+
+
+
+
+
+
+Research Queston:
+Is non native programmers and freelancers shift their language to English ?
+
+
+-------------------------------------------------------------
+* The role of new web technologies in shifting to english.
+
+# I've chosed this topic because is rich and is a real case study that can be tested and studied. it's quantititive and qualitative. the idea is to know if learning programming and the desire to working online can lead people to shifting to enlgish or not.
+- Im intersted inthis tipic because i've educational background in computer scince and web technologies and expercince in working online as well ad sociolinguistics.
+- I want to know if The internet will lead to language shift to english (Today the web is where we live and the core language used in the web is English).
+- I will study and collect data from young people that are intersted in learning new computer technologies like computer programming and web softwares as well as those who works and online. 
+- If There is  use and shifitng to learning english I want to know the reasons and why english and why not other languages.
+
+
+
+
+
+Serch Englines Ressources:
+https://www.wiley.com/
+https://scholar.google.com/
+	
+	
+	
+Useful articles, videos and papers:
+---------------------
+- https://qz.com/1101096/apple-ceo-tim-cook-on-learning-to-code-he-doesnt-seem-to-understand-programmers-must-learn-english/#:~:text=If%20programming%20requires%20knowledge%20of,comments%2C%20and%20documentation%20in%20English.
+
+
+<h2> English is the programming language <h2>
+
+If programming requires knowledge of human languages, then the main language to know is, without question, English. The codebases for nearly every major programming language, library and API are written with variable names, comments, and documentation in English. If a coder is stuck on a tricky problem, the best way to get help is to search in English or post questions in English. Then there is the fact that big tech companies, Apple included, have employees from all over the world, who usually communicate in the lingua franca of English. The best way to become is a good programmer is to read good code, and to read the best code in the world, you have to know English.
+--------------------------
+
+# The Language of Codes : Why English is the Lingua Franca of Programming.
+- https://ystudios.com/insights-passion/codelanguage
+
+# Language shift, bilingualism and the future of Britain's Celtic languages
+- https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2010.0051
+
+# Why English-based Programming Languages?
+- https://medium.com/@omidalejandro/why-english-based-programming-languages-be53a3ad03aa
+
