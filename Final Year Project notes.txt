@@ -26,9 +26,11 @@ Working Plan:
 ------------------------------------
 Tasks To do:
 ------------------------------------
-- edit all section and chapters titles to to start wit noindetntation.
-- Extend to Part one Concultion.
-- 
+- Extend conclustion to part one.
+- Add general conclusion.
+- Add example of a questionnaire in the index.
+- Modify the cover page.
+- Revise all the paper and print it.
 
 -------------------
 Table of content :
